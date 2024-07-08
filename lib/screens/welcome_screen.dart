@@ -55,7 +55,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
               onPressed: () async {
                 EmailSender emailsender = EmailSender();
                 //Enter your email in send method
-                var response = await emailsender.send("eventataau@gmail.com");
+                var response = await emailsender.send("user@gmail.com");
 
                 if (response["message"] == "emailSendSuccess") {
                   print('SUCCESS! Email sent to ');
