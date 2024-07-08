@@ -1,0 +1,57 @@
+{
+  "project_info": {
+    "project_number": "536643017513",
+    "project_id": "messageme-app-9b73e",
+    "storage_bucket": "messageme-app-9b73e.appspot.com"
+  },
+  
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536643017513:android:355eb4d0395a3299d57538",
+        "android_client_info": {
+          "package_name": "at.alazaizeh.messageme_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536643017513-3ljtc4prhaksf1ocvrvc2p6sagn9ao5i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "at.alazaizeh.messageme_app",
+            "certificate_hash": "09406bc34fcec3f85b9418f80a7e4c9ff3277835"
+          }
+        },
+        {
+          "client_id": "536643017513-fq1fq5dgt7fpd87cmcms4f76p3tb1447.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9nV2uah3TiMq0RjgM742EXTdtECLJvD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536643017513-fq1fq5dgt7fpd87cmcms4f76p3tb1447.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "536643017513-asset2ae1vuds6ltqu5c5flfpfh42ji9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.messageApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+
+  
+}
